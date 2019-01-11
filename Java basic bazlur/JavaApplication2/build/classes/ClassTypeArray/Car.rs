@@ -1,0 +1,2 @@
+ClassTypeArray.AutoMobile
+ClassTypeArray.Car
