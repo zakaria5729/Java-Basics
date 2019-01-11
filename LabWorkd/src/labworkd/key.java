@@ -1,0 +1,5 @@
+package labworkd;
+
+class key {
+
+}

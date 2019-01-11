@@ -1,0 +1,5 @@
+package extra;
+
+class str {
+
+}
